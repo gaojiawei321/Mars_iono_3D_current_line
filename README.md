@@ -1,4 +1,4 @@
-# Mars_iono_3D_current_line
+# Mars_iono_current
 ---
 ## 
 ---
