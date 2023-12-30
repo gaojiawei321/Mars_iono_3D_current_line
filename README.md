@@ -20,15 +20,15 @@ If you want to repeat the following figures, run Matlab Script in /Figure/.
 
  # Coordinates
   
-  to do
-  
+See the paper for more details.
+
   # Requirements
   
-  This code is compatible with Windows and Mac operating systems, with matlab installed. 
+  This code is compatible with Windows and Mac operating systems, with Matlab installed. 
   
   # Results
   
-  Just run the example_1.m in Matlab, you will get a
+  Just run the Figure.m in Matlab, and you will get the output fig. Note that large files are not uploaded (It is so big.. MAVEN_4s_q_2023.mat is about 10.04 GB), load the .mat in 
 
   
   # License
