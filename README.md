@@ -6,7 +6,7 @@
 Code for "Characterizing the current systems in the Martian ionosphere"
 
 
-The magnetic fields and current distribution in the Martian ionosphere observed by MAVEN.
+The magnetic fields and current distribution in the Martian magnetosphere and ionosphere observed by MAVEN.
 
 ## 
 ---
