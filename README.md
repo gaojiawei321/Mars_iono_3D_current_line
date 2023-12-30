@@ -5,7 +5,7 @@
 Code for "Characterizing the current systems in the Martian ionosphere"
 ## 
 ---
-If you want to repetition following figures
+If you want to repeat the following figures
 
 ![LOGO](Figure/Fig/Bmse_xyz_slice_3_0.5_Bt10_q1.tiff)
   
