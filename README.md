@@ -10,11 +10,12 @@ The magnetic fields and current distribution in the Martian magnetosphere and io
 
 ## 
 ---
-If you want to repeat the following figures
+If you want to repeat the following figures, run Matlab Script in /Figure/. 
 
 ![LOGO](Figure/Fig/Figure1hh.png)
 
 ![LOGO](Figure/Fig/Figure2_mso.png)
+![LOGO](Figure/Fig/Figure2_mse.png)
 
 
  # Coordinates
