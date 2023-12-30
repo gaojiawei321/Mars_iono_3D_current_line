@@ -7,8 +7,9 @@ Code for "Characterizing the current systems in the Martian ionosphere"
 ---
 If you want to repeat the following figures
 
-![LOGO](Figure/Fig/Fugure1hh.png)
-  
+![LOGO](Figure/Fig/Figure1hh.png)
+
+![LOGO](Figure/Fig/Figure2_mso.png)
 
 
  # Coordinates
