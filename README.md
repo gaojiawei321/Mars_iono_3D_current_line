@@ -1,14 +1,13 @@
 # Mars_iono_current
 ---
 ##
-This paper is now under review
+#This paper is now under review
 
-[![DOI](https://doi.org/10.21203/rs.3.rs-3821069/v1)](https://doi.org/10.21203/rs.3.rs-3821069/v1)
+[![DOI](https://doi.org/10.21203/rs.3.rs-3821069/v1.svg)](https://doi.org/10.21203/rs.3.rs-3821069/v1)
 
 ---
 
-Code for "Characterizing the current systems in the Martian ionosphere"
-
+#Code for "Characterizing the current systems in the Martian ionosphere"
 
 The magnetic fields and current distribution in the Martian magnetosphere and ionosphere observed by MAVEN.
 
