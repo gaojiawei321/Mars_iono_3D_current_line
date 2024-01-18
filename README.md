@@ -1,6 +1,10 @@
 # Mars_iono_current
 ---
 ##
+This paper is now under review
+
+[![DOI](https://doi.org/10.21203/rs.3.rs-3821069/v1)](https://doi.org/10.21203/rs.3.rs-3821069/v1)
+
 ---
 
 Code for "Characterizing the current systems in the Martian ionosphere"
