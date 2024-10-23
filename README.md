@@ -11,6 +11,8 @@
 
 The magnetic fields and current distribution in the Martian magnetosphere and ionosphere observed by MAVEN.
 
+The code to calculating the current and electric field are available at Figure 1, Figure 2, Figure 4, 
+For calculating the conductivity, see jisuan_mars_150km_MSO.m
 ## 
 ---
 If you want to repeat the following figures, run Matlab Script in /Figure/. 
