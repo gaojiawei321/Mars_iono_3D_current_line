@@ -33,7 +33,7 @@ See the paper for more details.
   
   # Results
   
-  Just run the Figure.m in Matlab, and you will get the output fig. Note that large files are not uploaded (It is big.. MAVEN_4s_q_2023.mat is about 10.04 GB), please load the .mat in data are plot the figure.
+  Just run the Figure.m in Matlab, and you will get the output fig. Note that large files are not uploaded (It is big.. MAVEN_4s_q_2023.mat is about 10.04 GB), please load the .mat in data and plot the figure.
 
   If you have any questions about those scripts, or you are interested in the large files, e.g., MAVEN_4s_q_2023.mat, please contact gaojw@mail.iggcas.ac.cn.
 
