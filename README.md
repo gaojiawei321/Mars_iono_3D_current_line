@@ -1,9 +1,9 @@
 # Mars_iono_current
 ---
 ##
-#This paper is now under review
+#This paper is published in Nature communications (https://doi.org/10.1038/s41467-024-54073-9)
 
-[![DOI](https://doi.org/10.21203/rs.3.rs-3821069/v1.svg)](https://doi.org/10.21203/rs.3.rs-3821069/v1)
+[![DOI](https://doi.org/10.1038/s41467-024-54073-9)](https://doi.org/10.1038/s41467-024-54073-9)
 
 ---
 
