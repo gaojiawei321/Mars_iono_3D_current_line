@@ -3,8 +3,9 @@
 ##
 #This paper is published in Nature communications (https://doi.org/10.1038/s41467-024-54073-9)
 
-[![DOI](https://doi.org/10.1038/s41467-024-54073-9)](https://doi.org/10.1038/s41467-024-54073-9)
-
+Data is available from
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13749420.svg)](https://doi.org/10.5281/zenodo.13749420)
+  
 ---
 
 #Code for "Characterizing the current systems in the Martian ionosphere"
